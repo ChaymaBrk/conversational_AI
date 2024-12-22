@@ -14,7 +14,7 @@ Develop a FastAPI backend system with SQLAlchemy ORM for a conversational AI pla
   - If you’re asking for food advice, the platform uses a model called **Llama-3.3-70b**. This model helps the system pull the most relevant information from documents and give you an answer based on that.
 
 - **Weather Questions:**
-  - For weather-related queries, the platform gets the latest weather data for **New York** (right now), and then uses another model, **GPT-4o**, to explain the weather in a clear and simple way.
+  - For weather-related queries, the platform gets the latest weather data, and then uses another model, **GPT-4o**, to explain the weather in a clear and simple way.
 
 ### Document Management
 
